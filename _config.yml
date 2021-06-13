@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Luca Cosivi
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Polyglot. Traveller. Entrepeneur.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars.githubusercontent.com/u/80516439?v=4
 
 #
 # Flags below are optional
@@ -21,12 +21,34 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: https://github.com/lucarioams
   instagram:
-  linkedin:
+  linkedin:https://www.linkedin.com/in/lucacosivi/
   pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  rss: <?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:world.hey.com,2005:/luca</id>
+  <link rel="alternate" type="text/html" href="https://world.hey.com/luca.cosivi"/>
+  <link rel="self" type="application/atom+xml" href="https://world.hey.com/luca.cosivi/feed.atom"/>
+  <title>Luca Cosivi</title>
+  <updated>2021-05-28T14:24:15Z</updated>
+  <entry>
+    <id>tag:world.hey.com,2005:World::Post/12032</id>
+    <published>2021-05-28T10:15:16Z</published>
+    <updated>2021-05-28T14:24:15Z</updated>
+    <link rel="alternate" type="text/html" href="https://world.hey.com/luca.cosivi/online-travel-distribution-meets-blockchain-technology-3f25980c"/>
+    <title>Online Travel Distribution meets Blockchain Technology</title>
+    <content type="html">&lt;div class="trix-content"&gt;
+  &lt;div&gt;Crypto? Bitcoin? Ethereum? Dogecoin? Everyone is talking about it. However, if you want to understand the technology behind this phenomena, and more specifically how it can be used in the travel industry, welcome.&lt;br&gt;&lt;br&gt;Since the start of 2021, I have been in the infamous blockchain technology rabbit hole and have been researching its applications in the travel industry. I have been doing it for my bachelor thesis and simultaneously for a project I am currently working, to develop a blockchain-powered OTA.&lt;br&gt;&lt;br&gt;In the upcoming weeks, I will share part of my research with you and will take you on a journey that starts with Thomas Cook and ends in 2030. The titles of each are;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;A brief history of travel distribution&lt;/li&gt;&lt;li&gt;Blockchain 101 - A non-techie explanation&lt;/li&gt;&lt;li&gt;Blockchain and the online travel industry &lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;br&gt;To not miss them sign-up to get the newsletter directly in your inbox below. &lt;br&gt;&lt;br&gt;If you have any questions or just want to reach you can find me on &lt;a href="https://twitter.com/lucarioams"&gt;Twitter&lt;/a&gt; or &lt;a href="https://www.linkedin.com/in/lucacosivi/"&gt;LinkedIn&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+</content>
+    <author>
+      <name>Luca Cosivi</name>
+      <email>luca.cosivi@hey.com</email>
+    </author>
+  </entry>
+</feed>
+  twitter: lucarioams
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
